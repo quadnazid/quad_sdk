@@ -31,6 +31,3 @@ namespace std {
 #define main DllMain
 #define module HMODULE
 #define disable_calls DisableThreadLibraryCalls
-
-// created for github users :3
-//  github.com/user/carterrrj
